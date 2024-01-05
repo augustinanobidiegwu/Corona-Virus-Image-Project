@@ -11,16 +11,16 @@ This project focused on analyzing and classifying COVID-related X-ray images cat
 •	Python
 
 ## Libraries
-•	Pandas
-• Numpy
-• sklearn.model
-•	Matplotlib
-•	Seaborn
-• OpenCV (cv2)
-• Pathlib
-• Tensorflow
-• OS
-• Tqdm
+•	Pandas    
+• Numpy    
+• sklearn.model    
+•	Matplotlib    
+•	Seaborn    
+• OpenCV (cv2)    
+• Pathlib    
+• Tensorflow    
+• OS   
+• Tqdm   
 
 ## About Me
 My name is Tina, and I'm a committed supporter of data-driven solutions designed to address complex business problems.
