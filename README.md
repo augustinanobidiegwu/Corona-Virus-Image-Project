@@ -32,6 +32,6 @@ My experience includes using Python and R for statistical analysis, thorough dat
 I am proficient in Python and R, intermediately knowledgeable in SQL, Microsoft Power BI and advanced level in Microsoft Excel. Personal development, is one thing that has been constant in my journey, empowering my current abilities and actively learning new ones.
 
 ## Let's Connect!
-•	GitHub     
-•	LinkedIn
+• [GitHub](https://github.com/augustinanobidiegwu)  
+• [LinkedIn](https://www.linkedin.com/in/augustinanobidiegwu)  
 
